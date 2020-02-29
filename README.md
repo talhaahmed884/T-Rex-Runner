@@ -1,2 +1,2 @@
 # T-Rex-Runner
-T-Rex Runner Game using DOS Platform
+T-Rex Runner Game using Assembly Platform
