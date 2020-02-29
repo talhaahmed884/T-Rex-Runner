@@ -1,0 +1,23 @@
+                                Instructions
+Controls:                                         
+
+	1. UP, DOWN, LEFT and RIGHT keys can be pressed to move the Dino on to
+	   the screen in these positions respectively.
+
+	2. SpaceBar key can be pressed to jump the Dino off the hurdle.
+
+	3. Escape Key can be pressed to pause the game.
+
+Game Play:
+
+	1. As the dino moves over the hurdles, the score is added up
+	   accordingly.
+	
+	2. If the score crosses 50 points each time, the level and
+	   speed of Dino is increased.
+	
+	3. A player has total three lives in the game. If all the
+	   lives are destroyed then game ends.
+
+	4. Health boost might appear after certain score or
+	   increase in level.
